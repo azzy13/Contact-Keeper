@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Azhar:112233ab@contacttracker-vzng5.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
